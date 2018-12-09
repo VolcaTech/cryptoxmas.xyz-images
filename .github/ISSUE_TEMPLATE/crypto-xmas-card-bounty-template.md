@@ -22,5 +22,5 @@ Format: png, 800x800px or svg
 
 ## Definition of Done
 
-- 3 independent [...] images are submitted in a public figma file, linked in this issue, or
+- 3 independent [...] images are submitted to our public [figma file](https://www.figma.com/file/VocNnEyi5YxH7ZcXT7YLcAkN/Workplace-for-NFT-artists?node-id=1%3A115), or
 - 3 images are submitted via PR to this repo
