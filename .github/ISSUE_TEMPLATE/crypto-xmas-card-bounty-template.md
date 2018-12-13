@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 # This is a ✨ [Cryptoxmas.xyz](https://cryptoxmas.xyz/) bounty✨
-**Every bounty DAI paid out will be matched as a donation to our** [Venezuelan Giveth Campaign](https://beta.giveth.io/campaigns/5c0e84ea06392d786b64d484).
+## Every bounty DAI paid out will be matched as a donation to this[Venezuelan Giveth Campaign](https://beta.giveth.io/campaigns/5c0e84ea06392d786b64d484)
+
+# About
 
 www.cryptoxmas.xyz - Send NFT Christmas Cards + ETH to non-crypto friends via invite link & support Venezuelans in need.
 
