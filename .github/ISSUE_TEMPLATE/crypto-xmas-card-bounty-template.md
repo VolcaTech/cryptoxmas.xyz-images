@@ -16,6 +16,8 @@ www.cryptoxmas.xyz - Send NFT Christmas Cards + ETH to non-crypto friends via in
 
 Provide [...] images. Let your artistic spirits flow freely! You can photoshop, draw vector graphics or use any other tool at hand.
 
+The top [...] contributors will be paid in DAI.
+
 Format: png, 800x800px or svg
 
 # Description
